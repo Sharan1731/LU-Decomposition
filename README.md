@@ -49,7 +49,8 @@ print(solution)
 
 ## Output:
 ![lu decomposition]()
-![image](https://github.com/Sharan1731/LU-Decomposition/assets/144980172/ec416d6e-97e2-4ec0-aedf-ae3a279026ec)
+![image](https://github.com/Sharan1731/LU-Decomposition/assets/144980172/5040e444-2ebd-4a88-ac9c-072e1c40f9af)
+
 ![image](https://github.com/Sharan1731/LU-Decomposition/assets/144980172/54b5e80c-4824-457d-b804-bd60577c39ef)
 
 
